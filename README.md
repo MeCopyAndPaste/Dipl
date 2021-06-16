@@ -11,4 +11,4 @@ SubPub_UDP_comm.py
 - komunikacija s HRI-jem
 - komunikacija s gazebo simulacijom
                    
-
+Ignorirati mape koje se nalaze u repozitoriju
