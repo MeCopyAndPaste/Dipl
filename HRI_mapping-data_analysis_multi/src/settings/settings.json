@@ -1,0 +1,41 @@
+[
+    {
+        "type": "options",
+        "title": "Location",
+        "desc": "",
+        "section": "basic",
+        "key": "location",
+        "options": ["mac", "windows", "dronedome"]
+    },
+    {
+        "type": "string",
+        "title": "Subject name",
+        "desc": "",
+        "section": "basic",
+        "key": "subject_name"
+    },
+    {
+        "type": "options",
+        "title": "Input Device",
+        "desc": "",
+        "section": "basic",
+        "key": "input_device",
+        "options": ["motive", "imu", "remote"]
+    },
+    {
+        "type": "options",
+        "title": "Robot",
+        "desc": "",
+        "section": "basic",
+        "key": "robot",
+        "options": ["Fixed-wing (fixed speed)", "Fixed-wing", "Quadrotor", "Swarm of quadrotors"]
+    },
+    {
+        "type": "options",
+        "title": "Control Style",
+        "desc": "",
+        "section": "basic",
+        "key": "control_style",
+        "options": ["simple", "maxmin", "new"]
+    }
+]
